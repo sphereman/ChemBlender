@@ -3,7 +3,7 @@
 # ------------------------------- ChemBlender -------------------------------- #
 # ------------------------------ version alpha ------------------------------- #
 #                                                                              #
-#     Professional Visualization of Molecules for Scientists and Artiests.     #
+#     Professional Visualization of Molecules for Scientists and Artists.      #
 #                                                                              #
 #                              Author: Li Haodong                              #
 #                University of Science and Technology of China                 #
